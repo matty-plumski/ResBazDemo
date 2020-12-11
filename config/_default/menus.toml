@@ -19,8 +19,18 @@
   weight = 30
 
 [[main]]
+  name = "Media"
+  url = "#media"
+  weight = 30
+
+[[main]]
   name = "Publications"
   url = "#featured"
+  weight = 40
+
+[[main]]
+  name = "Skills"
+  url = "#skills"
   weight = 40
 
 [[main]]
